@@ -1,5 +1,6 @@
 ﻿# Get a CSV list of ad users
 # Louis Scianni
+# Released under FreeBSD license
 $SWITCH = $ARGS
 $FILE = 'ad_users.csv'
 $NUM = 0
